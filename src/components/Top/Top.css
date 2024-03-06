@@ -1,0 +1,122 @@
+@media only screen and (min-width: 320px) {
+    /* for mobile */
+    #top {
+        height: 80vh;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+    .top-container {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .hero-text  {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 16px;
+    }
+
+    .secondary-text, .hero-text {
+        max-width: 400px;
+    }
+
+    #top h1 {
+        text-align: center;
+        font-size: 72px;
+        background-position-y: -50px;
+        line-height: 1.1;
+        margin: 0;
+
+        background-image: url('src/assets/images/home/h1-clip2.gif');
+        background-clip:text;
+        -webkit-background-clip:text;
+        color:transparent;
+        background-size: 100%;
+        background-position-y: -100px;
+        filter: brightness(100%) contrast(85%);
+    }
+
+    #top h3 {
+        font-size: 20px;
+        margin: 0;
+    }
+
+    #top img {
+        width: 32px;
+        transform: rotate(90deg);
+        margin-top: -5vh;
+        cursor: pointer;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    /* for tablet */
+    #top {
+        height: 90vh;
+    }
+
+    .top-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .secondary-text, .hero-text {
+        max-width: 800px;
+    }
+
+    #top h1 {
+        text-align: center;
+        font-size: 160px;
+        background-position-y: -50px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    /* for desktop */
+    #top {
+        height: 100vh;
+    }
+    
+    .top-container {
+        align-items: last baseline;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .hero-text {
+        max-width: 700px;
+    }
+
+    .secondary-text {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        width: 400px;
+    }
+
+    #top h1 {
+        font-size: 150px;
+        text-align: left;
+        line-height: 1.1;
+        margin: 0;
+    }
+
+    #top h3 {
+        text-align: left;
+    }
+}
+
+@media only screen and (min-width: 1400px) {
+    /* for large desktop */
+    .hero-text {
+        max-width: 900px;
+    }
+
+    #top h1 {
+        font-size: 200px;
+    }
+}

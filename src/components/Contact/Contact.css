@@ -1,0 +1,86 @@
+@media only screen and (min-width: 320px) {
+    /* for mobile */
+    #contact {
+        height: 100vh;
+        justify-content: center;
+    }
+
+    .contact-container {
+        max-width: 400px;
+    }
+
+    .contact-container h1 {
+        font-size: 72px;
+        text-align: center;
+        background-position-y: 0;
+        margin: 16px 0;
+        line-height: 1.1;
+
+        background-image: url('src/assets/images/home/h1-clip5.gif');
+        background-clip:text;
+        -webkit-background-clip:text;
+        color:transparent;
+        background-size: 100%;
+        
+        filter: brightness(100%);
+    }
+
+    .contact-container h3 {
+        color: #cacaca;
+        font-size: 20px;
+        text-align: center;
+        width: 100%;
+        margin: 16px 0;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    /* for tablet */
+    #contact {
+        height: 80vh;
+    }
+
+    .contact-container {
+        max-width: 800px;
+    }
+
+    .contact-container h1 {
+        font-size: 160px;
+        text-align: center;
+        margin: 16px 0;
+    }
+
+    .contact-container h3 {
+        font-size: 20px;
+        text-align: center;
+        width: 100%;
+        margin: 16px 0;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    /* for desktop */
+    #contact {
+        height: 90vh;
+    }
+
+    .contact-container {
+        max-width: 1600px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .contact-container h1 {
+        font-size: 150px;
+        text-align: left;
+        line-height: 1.1;
+
+        background-position-y: -40px;
+        background-position-x: 5px;
+    }
+
+    .contact-container h3 {
+        width: 600px;
+        text-align: left;
+    }
+}

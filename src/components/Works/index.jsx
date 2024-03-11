@@ -4,7 +4,6 @@ import './Works.css'
 const Works = () => {
     return (
         <section id="works">
-            <div>
 
                 <h2>What I've done</h2>
                 <div className="cards-container">
@@ -36,7 +35,6 @@ const Works = () => {
                             <p>A simplified dashboard tailored for a cybersecurity SaaS product, specifically catering to SME's</p>
                         </div>
                     </div>
-                </div>
             </div>
         </section>
     );

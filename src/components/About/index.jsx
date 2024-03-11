@@ -10,13 +10,11 @@ const About = () => {
                 </div>
                 <div className='about-text'>
                     <p>
-                        Throughout my career, I've explored diverse fields, spanning from architecture and coding to project management.
-                        Driven by my fascination with technology and design, I've returned full circle to my passion for UX/UI design.
+                        I’m a curious designer who has worn several hats, from my major in architecture to project management and coding, and now back full-circle to design. This journey has made me more empathetic towards other roles and adaptable to different situations, especially when delivering projects for clients. I’m keen to continually refine my skills and make meaningful contributions within the right company.
                     </p>
                     <br />
                     <p>
-                        As a versatile and adaptable designer, I thrive on tackling new challenges.
-                        I am committed to continually refining my skills and making meaningful contributions within the right company.
+                        Besides design, I enjoy skating 🛹, being involved with an urban sketching group 🗓️🎨 that I founded and run, and practicing Japanese ⛩️.
                     </p>
                     <br />
                     <p>

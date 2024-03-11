@@ -14,6 +14,11 @@ body {
   padding: 0;
 }
 
+.home {
+  display: flex;
+  flex-direction: column;
+}
+
 #top, #works, #about, #contact {
   width: 100%;
   display: flex;

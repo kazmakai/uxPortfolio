@@ -21,7 +21,6 @@
 
 
 
-
 .case-study {
     display: flex;
     flex-direction: column;
@@ -119,6 +118,13 @@
         gap: 32px;
     }
 
+    .section-divider {
+        border-top: 0.25px solid #a2a2a2;
+        width: 300px;
+        padding: 32px;
+        margin-bottom: 64px;
+    }
+
     .info-container {
         min-width: 200px;
         display: flex;
@@ -145,7 +151,7 @@
         gap: 16px;
     }
 
-    .text-container {
+    .text-container, .text-container-c {
         min-width: 300px;
     }
 
@@ -191,10 +197,14 @@
 
     /* info */
     .info {
-        width: 1032px;
+        max-width: 1032px;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
+    }
+
+    .section-divider {
+        width: 500px;
     }
 
     .text-container {
@@ -203,6 +213,10 @@
 
     .text-container-b {
         width: 700px;
+    }
+
+    .text-container-c {
+        width: 300px;
     }
 
     .img-container {
@@ -236,6 +250,10 @@
         display: flex;
         flex-direction: row;
         align-items: flex-start;
+    }
+
+    .section-divider {
+        width: 1032px;
     }
 }
 

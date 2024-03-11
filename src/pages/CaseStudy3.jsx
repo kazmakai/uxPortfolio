@@ -22,7 +22,7 @@ function CaseStudy3() {
       <section className='layout-a'>
         <div className='info'>
           <div className='info-container'>
-            <h3>My Role</h3>
+            <h3>Role</h3>
             <p>UXUI D3signer, Researcher</p>
           </div>
           <div className='info-container'>
@@ -49,6 +49,12 @@ function CaseStudy3() {
           <p>
           Simplifying the tedious process of onboarding by providing prefilled areas based on preferences. A “lighter” version of Avertro that offers only the critical areas small and medium-sized businesses need to be aware of.
           </p>
+        </div>
+      </section>
+
+      <section className='layout-a'>
+        <div className='section-divider'>
+          <h2 className='avertrolite-text'>Approach</h2>
         </div>
       </section>
 
@@ -95,6 +101,13 @@ function CaseStudy3() {
           <h3>2 usability tests</h3>
           <h3>5 participants</h3>
           <p>After ideation workshops, we entered the development stage, where my role as lead designer became crucial. I divided the team into four groups to create lo-fi wireframes, promoting divergent thinking due to tight deadlines. Then, we merged the best features and information architecture collectively chosen by the group.</p>
+        </div>
+      </section>
+
+
+      <section className='layout-a'>
+        <div className='section-divider'>
+          <h2 className='avertrolite-text'>Hi-fi Designs</h2>
         </div>
       </section>
 

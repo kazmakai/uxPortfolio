@@ -5,7 +5,8 @@ const Works = () => {
     return (
         <section id="works">
             <div>
-                <h2>Works</h2>
+
+                <h2>What I've done</h2>
                 <div className="cards-container">
                     <div className="card">
                         <Link to="/case-study-1"><img src="src/assets/images/CaseStudy1/projectthumbnail1.png" alt="artjammers" /></Link>

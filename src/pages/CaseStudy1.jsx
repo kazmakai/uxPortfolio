@@ -22,7 +22,7 @@ function CaseStudy1() {
       <section className='layout-a'>
         <div className='info'>
           <div className='info-container'>
-            <h3>My Role</h3>
+            <h3>Role</h3>
             <p>UXUI Designer</p>
           </div>
           <div className='info-container'>
@@ -51,6 +51,12 @@ function CaseStudy1() {
           <p>
           A dynamic platform fostering the sharing of artworks, hosting informal gatherings, and providing a supportive forum for amateur artists in Tokyo to make meaning connections through art.
           </p>
+        </div>
+      </section>
+
+      <section className='layout-a'>
+        <div className='section-divider'>
+          <h2 className='artjammers-text'>Approach</h2>
         </div>
       </section>
 
@@ -137,9 +143,16 @@ function CaseStudy1() {
 
 
       <section className='layout-a'>
-        <div className='text-container'>
+        <div className='section-divider'>
+          <h2 className='artjammers-text'>Hi-fi Designs</h2>
+        </div>
+      </section>
+
+
+      <section className='layout-a'>
+        <div className='text-container-c'>
           <h3 className='artjammers-text'>1.</h3>
-          <h4>A dynamic forum interface fostering the exchange of artworks, casual gatherings, and inquiries</h4>
+          <h3>A dynamic forum interface fostering the exchange of artworks, casual gatherings, and inquiries</h3>
         </div>
         <div className='img-container'>
           <img src="src/assets/images/CaseStudy1/aj-hifi1.png" alt="hifi-1" className='hifi make-smaller'/>
@@ -149,7 +162,27 @@ function CaseStudy1() {
       <section className='layout-b'>
         <div className='text-container-b'>
           <h3 className='artjammers-text'>2.</h3>
-          <h4>A personal portfolio where users can look back on where they have created their artworks or the locations they are based on</h4>
+          <h3>A streamlined process to create casual, informal art hangouts with your friends, minus the stress of being officially dubbed the organizer</h3>
+        </div>
+        <div className='img-container-2'>
+          <img src="src/assets/images/CaseStudy1/aj-hifi3.png" alt="hifi-3" className='hifi'/>
+        </div>
+      </section>
+
+      <section className='layout-a'>
+        <div className='text-container-c'>
+          <h3 className='artjammers-text'>4.</h3>
+          <h3>Discover artwork posts based on tools and topics</h3>
+        </div>
+        <div className='img-container'>
+          <img src="src/assets/images/CaseStudy1/aj-hifi4.png" alt="hifi-4" className='hifi'/>
+        </div>
+      </section>
+
+      <section className='layout-b'>
+        <div className='text-container-b'>
+          <h3 className='artjammers-text'>3.</h3>
+          <h3>A personal portfolio where users can look back on where they have created their artworks or the locations they are based on</h3>
         </div>
         <div className='img-container-2'>
           <img src="src/assets/images/CaseStudy1/aj-hifi2.png" alt="hifi-2" className='hifi'/>
@@ -158,27 +191,6 @@ function CaseStudy1() {
 
       <section className='layout-b'>
         <div className='text-container-b'>
-          <h3 className='artjammers-text'>3.</h3>
-          <h4>A streamlined process to create casual, informal art hangouts with your friends, minus the stress of being officially dubbed the organizer</h4>
-        </div>
-        <div className='img-container-2'>
-          <img src="src/assets/images/CaseStudy1/aj-hifi3.png" alt="hifi-3" className='hifi'/>
-        </div>
-      </section>
-
-      <section className='layout-a'>
-        <div className='text-container'>
-          <h3 className='artjammers-text'>4.</h3>
-          <h4>Discover artwork posts based on tools and topics</h4>
-        </div>
-        <div className='img-container'>
-          <img src="src/assets/images/CaseStudy1/aj-hifi4.png" alt="hifi-4" className='hifi'/>
-        </div>
-      </section>
-
-
-            <section className='layout-b'>
-      <div className='text-container-b'>
           <h3>Reflection</h3>
           <p>This project has been personally fulfilling, especially as the founder of this community. Maintaining objectivity through thorough research, prioritizing MVPs over potential future features, and navigating pivots were challenging but rewarding aspects of the journey.</p>
         </div>

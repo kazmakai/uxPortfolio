@@ -22,7 +22,7 @@ function CaseStudy2() {
       <section className='layout-a'>
         <div className='info'>
           <div className='info-container'>
-            <h3>My Role</h3>
+            <h3>Role</h3>
             <p>UXUI Designer, Researcher</p>
           </div>
           <div className='info-container'>
@@ -49,6 +49,12 @@ function CaseStudy2() {
           <p>
           Translating Roche’s well known personal approach and impeccable customer service on its digital platform. The final deliverable is a simplified IA that links different verticals and services in a holistic manner.
           </p>
+        </div>
+      </section>
+
+      <section className='layout-a'>
+        <div className='section-divider'>
+          <h2 className='roche-text'>Approach</h2>
         </div>
       </section>
 
@@ -128,6 +134,12 @@ function CaseStudy2() {
       <section className='layout-a'>
         <div className='full-spread'>
           <img src="src/assets/images/CaseStudy2/roche-map.svg" alt="sitemap" />
+        </div>
+      </section>
+
+      <section className='layout-a'>
+        <div className='section-divider'>
+          <h2 className='roche-text'>Hi-fi Designs</h2>
         </div>
       </section>
 

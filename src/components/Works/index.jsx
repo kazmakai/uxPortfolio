@@ -9,7 +9,7 @@ const Works = () => {
                 <h2>What I've done</h2>
                 <div className="cards-container">
                     <div className="card">
-                        <Link to="/case-study-1"><img src="src/assets/images/CaseStudy1/projectthumbnail1.png" alt="artjammers" /></Link>
+                        <Link to="/case-study-1"><img src="assets/images/CaseStudy1/projectthumbnail1.png" alt="artjammers" /></Link>
                         <div>
                             <h3>1. ArtJammers</h3>
                             <h4>App / Art / Social</h4>
@@ -19,7 +19,7 @@ const Works = () => {
 
 
                     <div className="card">
-                        <Link to="/case-study-2"><img src="src/assets/images/CaseStudy2/projectthumbnail2.png" alt="roche" /></Link>
+                        <Link to="/case-study-2"><img src="assets/images/CaseStudy2/projectthumbnail2.png" alt="roche" /></Link>
                         <div>
                             <h3>2. Roche</h3>
                             <h4>Website / Medical / B2B</h4>
@@ -29,7 +29,7 @@ const Works = () => {
 
 
                     <div className="card">
-                        <Link to="/case-study-3"><img src="src/assets/images/CaseStudy3/projectthumbnail3.png" alt="avertrolite" /></Link>
+                        <Link to="/case-study-3"><img src="assets/images/CaseStudy3/projectthumbnail3.png" alt="avertrolite" /></Link>
                         <div>
                             <h3>3. Avertro LIte</h3>
                             <h4>SaaS / Cybersecurity / B2B</h4>

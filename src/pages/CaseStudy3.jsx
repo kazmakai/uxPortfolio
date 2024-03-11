@@ -14,7 +14,7 @@ function CaseStudy3() {
             <h1>Avertro Lite</h1>
             <h4>Avertro is a venture-backed global cybersecurity software company based in Sydney, Australia. They are the strategic cybersecurity headquarters that helps leaders manage the business of cyber through its SaaS platform. As a team of UX designers, we helped the client understand what the entry-level version of the Avertro platform could look like.</h4>
           </div>
-          <img src="src/assets/images/CaseStudy2/roche-hero.png" alt="avertrolite-hero-image" />
+          <img src="assets/images/CaseStudy2/roche-hero.png" alt="avertrolite-hero-image" />
         </section>
       </div>
 
@@ -69,7 +69,7 @@ function CaseStudy3() {
           </ul>
         </div>
         <div className='img-container'>
-          <img src="src/assets/images/CaseStudy3/avertro-insights.svg" alt="insights" className='insights'/>
+          <img src="assets/images/CaseStudy3/avertro-insights.svg" alt="insights" className='insights'/>
         </div>
       </section>
 
@@ -80,7 +80,7 @@ function CaseStudy3() {
           <p>One of our main challenges was the confidentiality surrounding cybersecurity, limiting access to insights. Despite this, we gathered valuable input and consulted with Avertro's CEO, who possesses deep client understanding. Leveraging these insights, we crafted a concise persona and journey map to steer our direction effectively.</p>
         </div>
         <div className='img-container'>
-          <img src="src/assets/images/CaseStudy3/avertro-journeymap.webp" alt="journey" />
+          <img src="assets/images/CaseStudy3/avertro-journeymap.webp" alt="journey" />
         </div>
       </section>
 
@@ -91,7 +91,7 @@ function CaseStudy3() {
           <p>After ideation workshops, we entered the development stage, where my role as lead designer became crucial. I divided the team into four groups to create lo-fi wireframes, promoting divergent thinking due to tight deadlines. Then, we merged the best features and information architecture collectively chosen by the group.</p>
         </div>
         <div className='img-container'>
-          <img src="src/assets/images/CaseStudy3/avertro-wf.jpeg" alt="journey" />
+          <img src="assets/images/CaseStudy3/avertro-wf.jpeg" alt="journey" />
         </div>
       </section>
 
@@ -142,13 +142,13 @@ function CaseStudy3() {
         <div className='other-projects-container'>
           <div className='other-projects'>
             <Link to="/case-study-1">
-              <img src="src/assets/images/CaseStudy1/projectthumbnail1.png" alt="artjammers" />
+              <img src="assets/images/CaseStudy1/projectthumbnail1.png" alt="artjammers" />
               <h4>ArtJammers</h4>
             </Link>
           </div>
           <div className='other-projects'>
             <Link to="/case-study-2">
-              <img src="src/assets/images/CaseStudy2/projectthumbnail2.png" alt="roche" />
+              <img src="assets/images/CaseStudy2/projectthumbnail2.png" alt="roche" />
               <h4>Roche</h4>
             </Link>
           </div>

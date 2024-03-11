@@ -14,7 +14,7 @@ function CaseStudy1() {
           <h1>ArtJammers</h1>
           <h4>While working in Tokyo, I co-founded an art Meetup group that visits a different location within the city to sketch every weekend. This app is designed to alleviate some of the pain points experienced by both members and organizers.</h4>
         </div>
-        <img src="src/assets/images/CaseStudy1/artjammers-hero.png" alt="artjammers-hero-image" />
+        <img src="assets/images/CaseStudy1/artjammers-hero.png" alt="artjammers-hero-image" />
         </section>
       </div>
 
@@ -70,7 +70,7 @@ function CaseStudy1() {
           </ul>
         </div>
         <div className='img-container'>
-          <img src="src/assets/images/CaseStudy1/aj-insights.svg" alt="insights" className='insights' />
+          <img src="assets/images/CaseStudy1/aj-insights.svg" alt="insights" className='insights' />
         </div>
       </section>
 
@@ -85,10 +85,10 @@ function CaseStudy1() {
 
       <section className='layout-a'>
         <div className='img-container'>
-          <img src="src/assets/images/CaseStudy1/aj-person1.png" alt="persona1" />
+          <img src="assets/images/CaseStudy1/aj-person1.png" alt="persona1" />
         </div>
         <div className='img-container'>
-          <img src="src/assets/images/CaseStudy1/aj-persona2.png" alt="persona2" />
+          <img src="assets/images/CaseStudy1/aj-persona2.png" alt="persona2" />
         </div>
       </section>
 
@@ -112,7 +112,7 @@ function CaseStudy1() {
 
       <section className='layout-a'>
         <div className='full-spread'>
-          <img src="src/assets/images/CaseStudy1/aj-wireframes.png" alt="wireframes" />
+          <img src="assets/images/CaseStudy1/aj-wireframes.png" alt="wireframes" />
         </div>
       </section>
 
@@ -137,7 +137,7 @@ function CaseStudy1() {
           <p>Acknowledging user feedback and feasibility concerns, I streamlined the approach by simplifying event creation, prioritizing the MVP, and enhancing sharing capabilities. Through a competitor analysis, I identified an untapped market for an event and art-sharing platform for amateur artists in Tokyo as the product evolves.</p>
         </div>
         <div className='img-container'>
-          <img src="src/assets/images/CaseStudy1/aj-ca.svg" alt="competitor analysis" />
+          <img src="assets/images/CaseStudy1/aj-ca.svg" alt="competitor analysis" />
         </div>
       </section>
 
@@ -155,7 +155,7 @@ function CaseStudy1() {
           <h3>A dynamic forum interface fostering the exchange of artworks, casual gatherings, and inquiries</h3>
         </div>
         <div className='img-container'>
-          <img src="src/assets/images/CaseStudy1/aj-hifi1.png" alt="hifi-1" className='hifi make-smaller'/>
+          <img src="assets/images/CaseStudy1/aj-hifi1.png" alt="hifi-1" className='hifi make-smaller'/>
         </div>
       </section>
 
@@ -165,7 +165,7 @@ function CaseStudy1() {
           <h3>A streamlined process to create casual, informal art hangouts with your friends, minus the stress of being officially dubbed the organizer</h3>
         </div>
         <div className='img-container-2'>
-          <img src="src/assets/images/CaseStudy1/aj-hifi3.png" alt="hifi-3" className='hifi'/>
+          <img src="assets/images/CaseStudy1/aj-hifi3.png" alt="hifi-3" className='hifi'/>
         </div>
       </section>
 
@@ -175,7 +175,7 @@ function CaseStudy1() {
           <h3>Discover artwork posts based on tools and topics</h3>
         </div>
         <div className='img-container'>
-          <img src="src/assets/images/CaseStudy1/aj-hifi4.png" alt="hifi-4" className='hifi'/>
+          <img src="assets/images/CaseStudy1/aj-hifi4.png" alt="hifi-4" className='hifi'/>
         </div>
       </section>
 
@@ -185,7 +185,7 @@ function CaseStudy1() {
           <h3>A personal portfolio where users can look back on where they have created their artworks or the locations they are based on</h3>
         </div>
         <div className='img-container-2'>
-          <img src="src/assets/images/CaseStudy1/aj-hifi2.png" alt="hifi-2" className='hifi'/>
+          <img src="assets/images/CaseStudy1/aj-hifi2.png" alt="hifi-2" className='hifi'/>
         </div>
       </section>
 
@@ -202,13 +202,13 @@ function CaseStudy1() {
         <div className='other-projects-container'>
           <div className='other-projects'>
             <Link to="/case-study-2">
-              <img src="src/assets/images/CaseStudy2/projectthumbnail2.png" alt="roche" />
+              <img src="assets/images/CaseStudy2/projectthumbnail2.png" alt="roche" />
               <h4>Roche</h4>
             </Link>
           </div>
           <div className='other-projects'>
             <Link to="/case-study-3">
-              <img src="src/assets/images/CaseStudy3/projectthumbnail3.png" alt="avertrolite" />
+              <img src="assets/images/CaseStudy3/projectthumbnail3.png" alt="avertrolite" />
               <h4>Avertro Lite</h4>
             </Link>
           </div>

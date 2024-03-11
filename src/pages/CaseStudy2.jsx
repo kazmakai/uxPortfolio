@@ -14,7 +14,7 @@ function CaseStudy2() {
           <h1>Roche</h1>
           <h4>Roche is a multinational medical company that has two main arms: pharmaceuticals, and diagnostics. We were tasked with figuring out how to rebuild and restructure the Roche Diagnostics Australia website in a way that attracts current and prospective customers to visit and return to it for valuable content and engagement.</h4>
         </div>
-        <img src="src/assets/images/CaseStudy2/roche-hero.png" alt="avertrolite-hero-image" />
+        <img src="assets/images/CaseStudy2/roche-hero.png" alt="avertrolite-hero-image" />
         </section>
       </div>
 
@@ -68,7 +68,7 @@ function CaseStudy2() {
           </ul>
         </div>
         <div className='img-container'>
-          <img src="src/assets/images/CaseStudy2/roche-insights.svg" alt="insights" className='insights'/>
+          <img src="assets/images/CaseStudy2/roche-insights.svg" alt="insights" className='insights'/>
         </div>
       </section>
 
@@ -79,7 +79,7 @@ function CaseStudy2() {
           <p>We created a competitor analysis and heuristics testing of the primary competitor websites. Our goal here was to understand how the competitors attract, retain customers, market products and how they arrange their own IA.</p>
         </div>
         <div className='img-container'>
-          <img src="src/assets/images/CaseStudy2/roche-ca.webp" alt="insights" />
+          <img src="assets/images/CaseStudy2/roche-ca.webp" alt="insights" />
         </div>
       </section>
 
@@ -94,7 +94,7 @@ function CaseStudy2() {
           </ul>
         </div>
         <div className='img-container'>
-          <img src="src/assets/images/CaseStudy2/roche-ws.webp" alt="insights" />
+          <img src="assets/images/CaseStudy2/roche-ws.webp" alt="insights" />
         </div>
       </section>
 
@@ -110,7 +110,7 @@ function CaseStudy2() {
           </ol>
         </div>
         <div className='img-container'>
-          <img src="src/assets/images/CaseStudy2/roche-wf.webp" alt="insights" />
+          <img src="assets/images/CaseStudy2/roche-wf.webp" alt="insights" />
         </div>
       </section>
 
@@ -133,7 +133,7 @@ function CaseStudy2() {
 
       <section className='layout-a'>
         <div className='full-spread'>
-          <img src="src/assets/images/CaseStudy2/roche-map.svg" alt="sitemap" />
+          <img src="assets/images/CaseStudy2/roche-map.svg" alt="sitemap" />
         </div>
       </section>
 
@@ -167,13 +167,13 @@ function CaseStudy2() {
         <div className='other-projects-container'>
           <div className='other-projects'>
             <Link to="/case-study-3">
-              <img src="src/assets/images/CaseStudy3/projectthumbnail3.png" alt="avertrolite" />
+              <img src="assets/images/CaseStudy3/projectthumbnail3.png" alt="avertrolite" />
               <h4>Avertro Lite</h4>
             </Link>
           </div>
           <div className='other-projects'>
             <Link to="/case-study-1">
-              <img src="src/assets/images/CaseStudy1/projectthumbnail1.png" alt="artjammers" />
+              <img src="assets/images/CaseStudy1/projectthumbnail1.png" alt="artjammers" />
               <h4>ArtJammers</h4>
             </Link>
           </div>

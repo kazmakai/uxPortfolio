@@ -35,7 +35,7 @@
         line-height: 1.1;
         margin: 0;
 
-        background-image: url('src/assets/images/home/h1-clip2.gif');
+        background-image: url('/assets/images/home/h1-clip2.gif');
         background-clip:text;
         -webkit-background-clip:text;
         color:transparent;

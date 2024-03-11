@@ -12,7 +12,7 @@ function CaseStudy3() {
         <section className='hero'>
           <div className='text-container'>
             <h1>Avertro Lite</h1>
-            <h4>Avertro is a venture-backed global cybersecurity software company based in Sydney, Australia. They are the strategic cybersecurity headquarters that helps leaders manage the business of cyber through its SaaS platform. As a team of UX designers, we helped the client understand what the entry-level version of the Avertro platform could look like.</h4>
+            <h3>Avertro is a venture-backed global cybersecurity software company based in Sydney, Australia. They are the strategic cybersecurity headquarters that helps leaders manage the business of cyber through its SaaS platform. As a team of UX designers, we helped the client understand what the entry-level version of the Avertro platform could look like.</h3>
           </div>
           <img src="assets/images/CaseStudy2/roche-hero.png" alt="avertrolite-hero-image" />
         </section>
@@ -85,6 +85,29 @@ function CaseStudy3() {
       </section>
 
 
+      <section className='layout-b'>
+      <div className='text-container-b'>
+          <h3>Workshop with Avetro stakeholders</h3>
+          <p>Our team organized two ideation sessions with Avertro the first one to discuss the objectives, in order to do this our team developed two how might we questions, that address all the objectives;</p>
+          <br />
+          <ul>
+            <li><em>How might we make a light version of Avertro platform for a more entry-level user?</em></li>
+            <li><em>How might we reduce friction from Mark's on boarding experience?</em></li>
+          </ul>
+        </div>
+      </section>
+
+
+      <section className='layout-a'>
+        <div className='img-container'>
+        <img src="assets/images/CaseStudy3/avertro-ws2.webp" alt="Crazy 8's" />
+        </div>
+        <div className='img-container'>
+        <img src="assets/images/CaseStudy3/avertro-ws.webp" alt="MVP" />
+        </div>
+      </section>
+
+
       <section className='layout-a'>
         <div className='text-container'>
           <h3>Lo-fi wireframes</h3>
@@ -111,18 +134,26 @@ function CaseStudy3() {
         </div>
       </section>
 
-      
-      <section className='layout-a'>
-        <div class="embed-responsive embed-responsive-21by9">
-        <iframe src="https://player.vimeo.com/video/574636908?h=b890d82f43" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+      <section className='layout-b'>
+        <div className='text-container-b'>
+          <h3 className='avertrolite-text'>1.</h3>
+          <h3>Simplified Onboarding: Avertro Lite streamlines the lengthy onboarding process for cybersecurity, offering prefilled sections based on client industry and standards, reducing setup time.</h3>
         </div>
+          <div class="embed-responsive embed-responsive-21by9">
+          <iframe src="https://player.vimeo.com/video/574636908?h=b890d82f43" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
       </section>
 
-      
-      <section className='layout-a'>
-        <div class="embed-responsive embed-responsive-21by9">
-        <iframe src="https://player.vimeo.com/video/574638512?h=29a093d964" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+      <section className='layout-b'>
+        <div className='text-container-b'>
+          <h3 className='avertrolite-text'>2.</h3>
+          <h3>Avertro Lite simplifies the clutter and technical jargon of the original platform. Its dashboard highlights key information like the cyber compliant score through a progress bar. Each card features a 'traffic light' system to quickly indicate the risk level of various cyber aspects.</h3>
         </div>
+          <div class="embed-responsive embed-responsive-21by9">
+          <iframe src="https://player.vimeo.com/video/574638512?h=29a093d964" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
       </section>
 
 

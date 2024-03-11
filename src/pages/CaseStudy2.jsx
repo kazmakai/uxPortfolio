@@ -12,7 +12,7 @@ function CaseStudy2() {
         <section className='hero'>
         <div className='text-container'>
           <h1>Roche</h1>
-          <h4>Roche is a multinational medical company that has two main arms: pharmaceuticals, and diagnostics. We were tasked with figuring out how to rebuild and restructure the Roche Diagnostics Australia website in a way that attracts current and prospective customers to visit and return to it for valuable content and engagement.</h4>
+          <h3>Roche is a multinational medical company that has two main arms: pharmaceuticals, and diagnostics. We were tasked with figuring out how to rebuild and restructure the Roche Diagnostics Australia website in a way that attracts current and prospective customers to visit and return to it for valuable content and engagement.</h3>
         </div>
         <img src="assets/images/CaseStudy2/roche-hero.png" alt="avertrolite-hero-image" />
         </section>
@@ -144,7 +144,13 @@ function CaseStudy2() {
       </section>
 
 
-      <section className='layout-a'>
+      <section className='layout-b'>
+        <div className='text-container-b'>
+          <h3 className='roche-text'>Final design proposal</h3>
+          <h3>As the design lead, one of the key challenges in creating the high-fidelity prototype was ensuring strict adherence to Roche's established brand identity.</h3>
+          <br />
+          <h3>Additionally, we faced the task of structuring the information architecture effectively to showcase the extensive amount of content on the website.</h3>
+        </div>
         <div class="embed-responsive embed-responsive-21by9">
           <iframe src="https://player.vimeo.com/video/574619896?" width="500" height="400" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
         </div>
@@ -156,7 +162,9 @@ function CaseStudy2() {
           <h3>Reflection</h3>
           <p><em>“You've considered fast and easy ways to get people to where they want to be and you have simplified the journey. I’m super impressed...” </em>- client</p>
           <br />
-          <p>Over 2 weeks, we were able to provide the client with a restructured and simplified website. Through research, we ensured the final product stays true to Roche’s values and responds to customers' needs. </p>
+          <p>Over 2 weeks, we were able to provide the client with a restructured and simplified website. Through research, we ensured the final product stays true to Roche’s values and responds to customers' needs.</p>
+          <br />
+          <p>It was enlightening to encounter the challenge of limited customer data and instead rely on internal stakeholders with frequent customer interactions. This experience shifted my perspective, highlighting that the 'typical' linear UX design approach is just a guideline.</p>
         </div>
       </section>
 

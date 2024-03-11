@@ -1,7 +1,14 @@
+.skills-container li {
+    font-size: 12px;
+    padding: 0;
+    margin: 0;
+}
+
 @media only screen and (min-width: 320px) {
     /* for mobile */
     #about {
         height: 100%;
+        margin: 64px 0;
     }
 
     .about-container {
@@ -9,7 +16,8 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding: 15vh 0;
+        padding: 32px 0;
+        gap: 32px;
     }
 
     .about-text {
@@ -48,10 +56,18 @@
     .skills-container img {
         width: 64px;
     }
+
+    .me {
+        max-width: 300px;
+    }
 }
 
 @media only screen and (min-width: 768px) {
     /* for tablet */
+
+    .me {
+        max-width: 500px;
+    }
 
 }
 

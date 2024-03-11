@@ -3,19 +3,22 @@ import './About.css'
 const About = () => {
     return (
         <section id="about">
+            <h2>About me</h2>
             <div className='about-container'>
                 <div className='about-text'>
-                    <h2>About me</h2>
+                    <img src="assets/images/home/yourstruly.jpg" alt="Yours truly" className='me' />
                 </div>
                 <div className='about-text'>
                     <p>
-                        Over the years, I've ventured into different fields—ranging from architecture and UX/UI design to project management. 
-                        Fueled by my fascination with the latest technology, I found myself coming full circle back to coding.
+                        Throughout my career, I've explored diverse fields, spanning from architecture and coding to project management.
+                        Driven by my fascination with technology and design, I've returned full circle to my passion for UX/UI design.
                     </p>
+                    <br />
                     <p>
-                        As a resourceful and adaptable software engineer, I'm always up for new challenges. 
-                        I'm excited to continue refining my skills, and make a positive contribution within the right company.
+                        As a versatile and adaptable designer, I thrive on tackling new challenges.
+                        I am committed to continually refining my skills and making meaningful contributions within the right company.
                     </p>
+                    <br />
                     <p>
                     My toolkit:
                     </p>

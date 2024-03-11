@@ -9,7 +9,7 @@ const Top = () => {
                 </div>
                 <div className='secondary-text'>
                     <p>&#40; like 'bye' with a 'k' &#41;</p>
-                    <h3>A software engineer currently based in Melbourne, with a passion for creating cool yet meaningful digital experiences.</h3>
+                    <h3>A UXUI designer currently based in Melbourne, with a passion for creating cool yet meaningful digital experiences.</h3>
                 </div>
             </div>
         </section>

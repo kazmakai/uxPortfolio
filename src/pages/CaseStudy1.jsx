@@ -12,7 +12,7 @@ function CaseStudy1() {
         <section className='hero'>
         <div className='text-container'>
           <h1>ArtJammers</h1>
-          <h4>While working in Tokyo, I co-founded an art Meetup group that visits a different location within the city to sketch every weekend. This app is designed to alleviate some of the pain points experienced by both members and organizers.</h4>
+          <h3>While working in Tokyo, I co-founded an art Meetup group that visits a different location within the city to sketch every weekend. This app is designed to alleviate some of the pain points experienced by both members and organizers.</h3>
         </div>
         <img src="assets/images/CaseStudy1/artjammers-hero.png" alt="artjammers-hero-image" />
         </section>
@@ -41,15 +41,15 @@ function CaseStudy1() {
         <div className='text-container'>
           <h3>Problems</h3>
           <ol>
-            <li>Insufficient organizers limit the ability to fulfill event demand, resulting in unmet community needs and potential disengagement</li>
+            <li>Lack of organizers limit the ability to meet the high demand of events, resulting in unmet community needs and potential disengagement</li>
             <li>Lack of engagement beyond events diminishes community connection and may hinder sustained participation and growth</li>
-            <li>Members want to initiate events but the process but don’t want the commitment of running an official group</li>
+            <li>Members want to initiate events but don’t want the commitment of running an official group</li>
           </ol>
         </div>
         <div className='text-container'>
           <h3>Solution</h3>
           <p>
-          A dynamic platform fostering the sharing of artworks, hosting informal gatherings, and providing a supportive forum for amateur artists in Tokyo to make meaning connections through art.
+          A dynamic platform fostering the sharing of artworks, hosting informal events, and providing a supportive forum for amateur artists in Tokyo to make meaning connections through art.
           </p>
         </div>
       </section>
@@ -66,7 +66,7 @@ function CaseStudy1() {
           <h3>Gathering Insights</h3>
           <ul>
             <li>Besides the obvious issues with Meetup, I wanted to explore what other pains members are experiencing.</li>
-            <li>I created and sent out a questionnaire aimed at collecting demographic, behavioral, and motivational data from members, which eventually received 25 responses.</li>
+            <li>I sent out a questionnaire aimed at collecting demographic, behavioral, and motivational data from members, which eventually received 25 responses.</li>
           </ul>
         </div>
         <div className='img-container'>
@@ -95,7 +95,9 @@ function CaseStudy1() {
 
       <section className='layout-b'>
         <div className='text-container-b'>
-          <h3><em>How might we streamline the process of organizing urban sketching events in Tokyo to meet growing demand and ensure community needs are fulfilled, while also enhancing post-event engagement to foster lasting connections and encourage sustained participation...?</em></h3>
+          <h3><em>How might we streamline the process of organizing urban sketching events in Tokyo to meet growing demand and ensure community needs are fulfilled?</em></h3>
+          <br />
+          <h3><em>How might we enhance post-event engagement to foster lasting connections and encourage sustained participation in urban sketching events in Tokyo?</em></h3>
         </div>
       </section>
 

@@ -18,7 +18,7 @@ function Home() {
       }
     } else {
       // Scroll to the top of the page if no hash is present
-      window.scrollTo({ top: 0, behavior: 'smooth' });
+      window.scrollTo({ top:0 , behavior: 'smooth' });
     }
   }, [location.hash]);
 

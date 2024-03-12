@@ -23,7 +23,7 @@ function CaseStudy1() {
         <div className='info'>
           <div className='info-container'>
             <h3>Role</h3>
-            <p>UXUI Designer</p>
+            <p>UXUI Designer, Researcher</p>
           </div>
           <div className='info-container'>
             <h3>Category</h3>

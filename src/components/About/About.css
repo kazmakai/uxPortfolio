@@ -12,6 +12,9 @@
 @media only screen and (min-width: 320px) {
     /* for mobile */
 
+    #about h2 {
+        font-size: 32px;
+    }
 
     .about-container {
         width: 100%;
@@ -67,6 +70,11 @@
 
 @media only screen and (min-width: 768px) {
     /* for tablet */
+
+    #about h2 {
+        font-size: 48px;
+    }
+
 
     .me {
         max-width: 500px;

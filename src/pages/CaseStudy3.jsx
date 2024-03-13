@@ -23,11 +23,11 @@ function CaseStudy3() {
         <div className='info'>
           <div className='info-container'>
             <h3>Role</h3>
-            <p>UXUI Designer, Researcher</p>
+            <p>UX/UI Designer, Researcher</p>
           </div>
           <div className='info-container'>
             <h3>Category</h3>
-            <p>SaaS / Cybersecurity / B2B</p>
+            <p>SaaS, Cybersecurity, B2B</p>
           </div>
           <div className='info-container'>
             <h3>Duration</h3>
@@ -47,7 +47,7 @@ function CaseStudy3() {
         <div className='text-container'>
           <h3>Solution</h3>
           <p>
-          Simplifying the tedious process of onboarding by providing prefilled areas based on preferences. A “lighter” version of Avertro that offers only the critical areas small and medium-sized businesses need to be aware of.
+          Start-ups and scale-ups often lack the resources to effectively understand and manage their cybersecurity risks and communicate them to the broader business.
           </p>
         </div>
       </section>
@@ -63,9 +63,9 @@ function CaseStudy3() {
         <div className='text-container'>
           <h3>Gathering Insights</h3>
           <ul>
-            <li>One of the few competitors we found that also provides SaaS security was JupiterOne</li>
-            <li>Contacted 60 start-ups companies in Australia that were in fintech and managed to interview 5 executive-level individuals</li>
-            <li>Desktop research on: SME’s cybercrime trends, third-party integrations, cyber risk management requirements</li>
+            <li>One of the few competitors we found in the SaaS security space was JupiterOne.</li>
+            <li>Contacted 60 fintech startups in Australia and conducted interviews with 5 executive-level individuals.</li>
+            <li>Desktop research on the SME’s cybercrime trends, third-party integrations, cyber risk management requirements</li>
           </ul>
         </div>
         <div className='img-container'>
@@ -121,9 +121,14 @@ function CaseStudy3() {
 
       <section className='layout-b'>
       <div className='text-container-b'>
-          <h3>2 usability tests</h3>
-          <h3>5 participants</h3>
-          <p>After ideation workshops, we entered the development stage, where my role as lead designer became crucial. I divided the team into four groups to create lo-fi wireframes, promoting divergent thinking due to tight deadlines. Then, we merged the best features and information architecture collectively chosen by the group.</p>
+          <h3>We did 2 rounds of usability tests on 4 Roche's internal stakeholders. Here is the general feedback:</h3>
+          <ul>
+            <li>Didn't know how to navigate to Homepage</li>
+            <li>Embedded videos would be better than YouTube links</li>
+            <li>Better to have the section they're in indicated/highlighted</li>
+            <li>Found the Help button placement confusing</li>
+            <li>Not sure the setup progress bar is related to the screen you're looking at</li>
+          </ul>
         </div>
       </section>
 
@@ -160,9 +165,9 @@ function CaseStudy3() {
       <section className='layout-b'>
       <div className='text-container-b'>
           <h3>Reflection</h3>
-          <p><em>You've considered fast and easy ways to get people to where they want to be and you have simplified the journey I’m super impressed...” </em>- client</p>
+          <p><em>"You've considered fast and easy ways to get people to where they want to be, and you have simplified the journey. I'm super impressed...” </em>- client</p>
           <br />
-          <p>We dove headfirst into research, despite being novices in cybersecurity. This ended up stretching our timeline, leaving little room for design and development, much to my dismay as the lead designer. We rushed through prototyping with only three days to spare. On top of that, user testing showed confusion over our data graphs, highlighting the importance of tailoring our solutions to fit each user's unique needs.</p>
+          <p>We ended up stretching our timeline, leaving little room for design and development, which was disappointing for me as the lead designer. Rushing through the prototyping phase with only three days remaining exacerbated the situation. Moreover, user testing revealed confusion over our data graphs, emphasizing the importance of tailoring our solutions to each user's unique needs.</p>
         </div>
       </section>
 

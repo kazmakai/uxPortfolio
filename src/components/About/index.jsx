@@ -10,7 +10,7 @@ const About = () => {
                 </div>
                 <div className='about-text'>
                     <p>
-                        I’m a curious designer who has worn several hats, from my major in architecture to project management and coding, and now back full-circle to design. This journey has made me more empathetic towards other roles and adaptable to different situations, especially when delivering projects for clients. I’m keen to continually refine my skills and make meaningful contributions within the right company.
+                    I’m a curious designer who has explored diverse roles, from my major in architecture to project management and coding, and now back full-circle to design. This journey has made me more empathetic towards other roles and adaptable to different situations, especially when delivering projects for clients. I’m keen to continually refine my skills and make meaningful contributions within the right company.
                     </p>
                     <br />
                     <p>

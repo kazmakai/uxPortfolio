@@ -23,11 +23,11 @@ function CaseStudy1() {
         <div className='info'>
           <div className='info-container'>
             <h3>Role</h3>
-            <p>UXUI Designer, Researcher</p>
+            <p>UX/UI Designer, Researcher</p>
           </div>
           <div className='info-container'>
             <h3>Category</h3>
-            <p>App / Art / Social</p>
+            <p>App, Art, Social</p>
           </div>
           <div className='info-container'>
             <h3>Duration</h3>
@@ -49,7 +49,7 @@ function CaseStudy1() {
         <div className='text-container'>
           <h3>Solution</h3>
           <p>
-          A dynamic platform fostering the sharing of artworks, hosting informal events, and providing a supportive forum for amateur artists in Tokyo to make meaning connections through art.
+          A dynamic platform fostering the sharing of artworks, hosting informal events, and providing a supportive forum for amateur artists in Tokyo to make meaningful connections through art.
           </p>
         </div>
       </section>
@@ -65,7 +65,9 @@ function CaseStudy1() {
         <div className='text-container'>
           <h3>Gathering Insights</h3>
           <ul>
-            <li>Besides the obvious issues with Meetup, I wanted to explore what other pains members are experiencing.</li>
+            <li>Got it! Here's a revision:
+
+"Besides the constant complaints from members about how the Meetup platform is buggy and slow, I wanted to delve deeper into the other issues members might be experiencing, particularly regarding how we run our events and group."</li>
             <li>I sent out a questionnaire aimed at collecting demographic, behavioral, and motivational data from members, which eventually received 25 responses.</li>
           </ul>
         </div>

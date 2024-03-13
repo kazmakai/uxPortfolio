@@ -27,7 +27,7 @@ function CaseStudy2() {
           </div>
           <div className='info-container'>
             <h3>Category</h3>
-            <p>Website / Medical / B2B</p>
+            <p>Website, Medical, B2B</p>
           </div>
           <div className='info-container'>
             <h3>Duration</h3>
@@ -41,7 +41,7 @@ function CaseStudy2() {
         <div className='text-container'>
           <h3>Problem</h3>
           <p>
-          Roche Diagnostics Australia has little to no presence online due to limited relevant content and confusing IA. The challenge was to increase engagement with existing and prospective customers.
+          Roche Diagnostics Australia has little to no presence online due to limited relevant content and confusing information architecture. The challenge was to increase engagement with existing and prospective customers.
           </p>
         </div>
         <div className='text-container'>
@@ -61,10 +61,10 @@ function CaseStudy2() {
 
       <section className='layout-a'>
         <div className='text-container'>
-          <h3>Gathering Insights</h3>
+          <h3>Gathering insights</h3>
           <ul>
             <li>We interviewed 8 Roche employees in key customer-facing roles, but due to workload and time constraints, only 6 could participate. They provided invaluable insights into Roche's client base, comprising medical labs, hospitals, and government projects</li>
-            <li>SWOT analysis on 6 diagnostics websites, especially Roche’s main competitor in Australia; Abbott Diagnostics. Our goal here was to understand how the competitors attract, retain customers, market products and how they arrange their own IA</li>
+            <li>SWOT analysis on 6 diagnostics websites, focusing especially on Roche’s main competitor in Australia: Abbott Diagnostics. Our goal here was to understand how the competitors attract, retain customers, market products and how they arrange their own IA</li>
           </ul>
         </div>
         <div className='img-container'>
@@ -75,7 +75,7 @@ function CaseStudy2() {
 
       <section className='layout-a'>
         <div className='text-container'>
-          <h3>Competitor Analysis and Heuristics</h3>
+          <h3>Competitor analysis and heuristics</h3>
           <p>We created a competitor analysis and heuristics testing of the primary competitor websites. Our goal here was to understand how the competitors attract, retain customers, market products and how they arrange their own IA.</p>
         </div>
         <div className='img-container'>
@@ -86,7 +86,7 @@ function CaseStudy2() {
 
       <section className='layout-a'>
         <div className='text-container'>
-          <h3>My team and I arranged an ideation workshop with the Roche team. For this meeting we devised three how might we questions to focus our ideas</h3>
+          <h3>My team and I arranged an ideation workshop with the Roche team. For this meeting we devised three 'how might we' questions to focus our ideas</h3>
           <ul>
             <li>How might we improve the experience and simplify the tender process for current and future clients?​</li>
             <li>How might we provide value in Roche Diagnostics Australia site that will help attract current and potential clients?</li>
@@ -117,7 +117,7 @@ function CaseStudy2() {
 
       <section className='layout-b'>
       <div className='text-container-b'>
-        <h3>Main feedback from user tests (3 stakeholders)</h3>
+        <h3>Main feedback from user tests (from 3 stakeholders)</h3>
         <ul>
           <li>Careers should be added to the header</li>
           <li>Search for articles should be included</li>
@@ -125,7 +125,7 @@ function CaseStudy2() {
           <li>Too much information on product pages</li>
           <li>Specification graphics too playful for medical site</li>
           <li>Add links to Roche ELabDoc service</li>
-          <li>Trouble shooting videos should be product specific</li>
+          <li>Troubleshooting videos should be product specific</li>
         </ul>
         </div>
       </section>
@@ -160,11 +160,9 @@ function CaseStudy2() {
       <section className='layout-b'>
       <div className='text-container-b'>
           <h3>Reflection</h3>
-          <p><em>“You've considered fast and easy ways to get people to where they want to be and you have simplified the journey. I’m super impressed...” </em>- client</p>
-          <br />
           <p>Over 2 weeks, we were able to provide the client with a restructured and simplified website. Through research, we ensured the final product stays true to Roche’s values and responds to customers' needs.</p>
           <br />
-          <p>It was enlightening to encounter the challenge of limited customer data and instead rely on internal stakeholders with frequent customer interactions. This experience shifted my perspective, highlighting that the 'typical' linear UX design approach is just a guideline.</p>
+          <p>Encountering the challenge of limited customer data and instead relying on internal stakeholders with frequent customer interactions was enlightening. This experience shifted my perspective, highlighting that the 'typical' linear UX design approach is just a guideline.</p>
         </div>
       </section>
 

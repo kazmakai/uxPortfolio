@@ -175,7 +175,7 @@ function CaseStudy1() {
 
       <section className='layout-a'>
         <div className='text-container-c'>
-          <h3 className='artjammers-text'>4.</h3>
+          <h3 className='artjammers-text'>3.</h3>
           <h3>Discover artwork posts based on tools and topics</h3>
         </div>
         <div className='img-container'>
@@ -185,7 +185,7 @@ function CaseStudy1() {
 
       <section className='layout-b'>
         <div className='text-container-b'>
-          <h3 className='artjammers-text'>3.</h3>
+          <h3 className='artjammers-text'>4.</h3>
           <h3>A personal portfolio where users can look back on where they have created their artworks or the locations they are based on</h3>
         </div>
         <div className='img-container-2'>

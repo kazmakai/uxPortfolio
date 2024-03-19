@@ -9,6 +9,15 @@
     margin: 0;
 }
 
+.about-text a {
+    text-decoration: none;
+    color: white;
+}
+
+.about-text a:hover {
+    color: #6a6a6a;
+}
+
 @media only screen and (min-width: 320px) {
     /* for mobile */
 

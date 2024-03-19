@@ -14,7 +14,7 @@ const About = () => {
                     </p>
                     <br />
                     <p>
-                        Besides design, I enjoy skating 🛹, being involved with an urban sketching group 🗓️🎨 that I founded and run, and practicing Japanese ⛩️.
+                        Besides design, I enjoy skateboarding 🛹, being involved with an <a href="https://www.meetup.com/art-jammers/" target='blank'>urban sketching group</a> 🗓️🎨 that I founded and run, and learning Japanese ⛩️.
                     </p>
                     <br />
                     <p>

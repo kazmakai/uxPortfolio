@@ -151,13 +151,24 @@ function CaseStudy1() {
         </div>
       </section>
 
+      <section className='layout-b'>
+        <div className='text-container-b'>
+          <h3>Style Guide</h3>
+          <p>For the UI aspect of the design, I aimed to utilize a simple yet vibrant color palette. Mustard yellow, in particular, was chosen for its ability to evoke creativity and overall joy.</p>
+        </div>
+      </section>
+
+      <section className='layout-a'>
+        <div className='full-spread'>
+          <img src="assets/images/CaseStudy1/aj-brand.jpg" alt="wireframes" />
+        </div>
+      </section>
 
       <section className='layout-a'>
         <div className='section-divider'>
           <h2 className='artjammers-text'>Hi-fi Designs</h2>
         </div>
       </section>
-
 
       <section className='layout-a'>
         <div className='text-container-c'>

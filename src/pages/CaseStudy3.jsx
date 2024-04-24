@@ -3,9 +3,15 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import "./casestudy.css";
 
+const scrollToTop = () => {
+  window.scrollTo({
+      top: 0
+  });
+}
+
 function CaseStudy3() {
   return (
-    <div className="case-study">
+    <div className="case-study" id='cs3'>
       
       <div className='avertrolite'>
         <Navbar />
@@ -177,13 +183,13 @@ function CaseStudy3() {
         <h3>More of my case studies</h3>
         <div className='other-projects-container'>
           <div className='other-projects'>
-            <Link to="/case-study-1">
+            <Link to="/case-study-1" onClick={scrollToTop}>
               <img src="assets/images/CaseStudy1/projectthumbnail1.png" alt="artjammers" />
               <h4>ArtJammers</h4>
             </Link>
           </div>
           <div className='other-projects'>
-            <Link to="/case-study-2">
+            <Link to="/case-study-2" onClick={scrollToTop}>
               <img src="assets/images/CaseStudy2/projectthumbnail2.png" alt="roche" />
               <h4>Roche</h4>
             </Link>

@@ -27,13 +27,17 @@
         justify-content: flex-start;
         padding: 16px;
         border-radius: 4px;
-        background-color: #181818;
+        background-color: #222222;
         gap: 16px;
     }
 
     .card h3 {
         text-align: left;
         padding: 16px 0;
+    }
+
+    .card h4 {
+        color: #a2a2a2;
     }
 
     .card img {
@@ -48,6 +52,8 @@
 
     .card p {
         text-align: left;
+        padding-top: 8px;
+        color: #fafafa;
     }
 
     .project-link-container {

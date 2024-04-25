@@ -10,7 +10,8 @@
 
 body {
   width: 100vw;
-  background-color: #111;
+  /* background-color: #111; */
+  background-color: #12151f;
   overflow-x: hidden;
   margin: 0;
   padding: 0;

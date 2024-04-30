@@ -79,13 +79,16 @@ function CaseStudy3() {
         </div>
       </section>
 
-      
-      <section className='layout-a'>
-        <div className='text-container'>
+      <section className='layout-b'>
+        <div className='text-container-b'>
           <h3>User Journey</h3>
           <p>One of our main challenges was the confidentiality surrounding cybersecurity, limiting access to insights. Despite this, we gathered valuable input and consulted with Avertro's CEO, who possesses deep client understanding. Leveraging these insights, we crafted a concise persona and journey map to steer our direction effectively.</p>
         </div>
-        <div className='img-container'>
+      </section>
+
+
+      <section className='layout-a'>
+        <div className='full-spread'>
           <img src="assets/images/CaseStudy3/avertro-journeymap.webp" alt="journey" />
         </div>
       </section>
@@ -145,16 +148,20 @@ function CaseStudy3() {
         </div>
       </section>
 
-
       <section className='layout-b'>
         <div className='text-container-b'>
           <h3 className='avertrolite-text'>1.</h3>
           <h3>Simplified Onboarding: Avertro Lite streamlines the lengthy onboarding process for cybersecurity, offering prefilled sections based on client industry and standards, reducing setup time.</h3>
         </div>
+        <div className='full-spread'>
+          <img src="assets/images/CaseStudy3/avertro-hifi.png" alt="journey" />
+        </div>
           <div class="embed-responsive embed-responsive-21by9">
           <iframe src="https://player.vimeo.com/video/574636908?h=b890d82f43" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
           </div>
       </section>
+
+
 
 
       <section className='layout-b'>

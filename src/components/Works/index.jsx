@@ -15,7 +15,7 @@ const Works = () => {
             <div className="cards-container">
                 <div className="card">
                     <Link to="/case-study-1" onClick={scrollToTop}>
-                        <img src="assets/images/CaseStudy1/projectthumbnail1.png" alt="artjammers" />
+                        <img src="assets/images/CaseStudy1/artjammers_thumbnail.jpg" alt="artjammers" />
                         <div>
                             <h3>ArtJammers</h3>
                             <h4>App, Art, Social</h4>

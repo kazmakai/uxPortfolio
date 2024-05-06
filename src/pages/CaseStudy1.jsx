@@ -20,7 +20,7 @@ function CaseStudy1() {
           <h1>ArtJammers</h1>
           <h3>While working in Tokyo, I co-founded an art Meetup group that visits a different location within the city to sketch every weekend. This app is designed to alleviate some of the pain points experienced by both members and organizers.</h3>
         </div>
-        <img src="assets/images/CaseStudy1/artjammers-hero.png" alt="artjammers-hero-image" />
+        <img src="assets/images/CaseStudy1/hero.png" alt="artjammers-hero-image" />
         </section>
       </div>
 
@@ -153,16 +153,26 @@ function CaseStudy1() {
 
       <section className='layout-b'>
         <div className='text-container-b'>
-          <h3>Style Guide</h3>
+          <h3>Branding and Style</h3>
           <p>For the UI aspect of the design, I aimed to utilize a simple yet vibrant color palette. Mustard yellow, in particular, was chosen for its ability to evoke creativity and overall joy.</p>
         </div>
       </section>
 
       <section className='layout-a'>
-        <div className='full-spread'>
-          <img src="assets/images/CaseStudy1/aj-brand.jpg" alt="wireframes" />
+        <div className='img-container'>
+          <img src="assets/images/CaseStudy1/Brand_light.png" alt="persona1" />
+        </div>
+        <div className='img-container'>
+          <img src="assets/images/CaseStudy1/Brand_dark.png" alt="persona2" />
         </div>
       </section>
+
+      <section className='layout-a'>
+        <div className='full-spread'>
+          <img src="assets/images/CaseStudy1/logo_development.png" alt="wireframes" />
+        </div>
+      </section>
+
 
       <section className='layout-a'>
         <div className='section-divider'>
@@ -175,18 +185,18 @@ function CaseStudy1() {
           <h3 className='artjammers-text'>1.</h3>
           <h3>A dynamic forum interface fostering the exchange of artworks, casual gatherings, and inquiries</h3>
         </div>
-        <div className='img-container'>
-          <img src="assets/images/CaseStudy1/aj-hifi1.png" alt="hifi-1" className='hifi make-smaller'/>
+        <div className='full-spread'>
+          <img src="assets/images/CaseStudy1/1.png" />
         </div>
       </section>
 
-      <section className='layout-b'>
-        <div className='text-container-b'>
+      <section className='layout-a'>
+        <div className='text-container-c'>
           <h3 className='artjammers-text'>2.</h3>
           <h3>A streamlined process to create casual, informal art hangouts with your friends, minus the stress of being officially dubbed the organizer</h3>
         </div>
-        <div className='img-container-2'>
-          <img src="assets/images/CaseStudy1/aj-hifi3.png" alt="hifi-3" className='hifi'/>
+        <div className='full-spread'>
+          <img src="assets/images/CaseStudy1/2.png" />
         </div>
       </section>
 
@@ -195,18 +205,18 @@ function CaseStudy1() {
           <h3 className='artjammers-text'>3.</h3>
           <h3>Discover artwork posts based on tools and topics</h3>
         </div>
-        <div className='img-container'>
-          <img src="assets/images/CaseStudy1/aj-hifi4.png" alt="hifi-4" className='hifi'/>
+        <div className='full-spread'>
+          <img src="assets/images/CaseStudy1/3.png" />
         </div>
       </section>
 
-      <section className='layout-b'>
-        <div className='text-container-b'>
+      <section className='layout-a'>
+        <div className='text-container-c'>
           <h3 className='artjammers-text'>4.</h3>
           <h3>A personal portfolio where users can look back on where they have created their artworks or the locations they are based on</h3>
         </div>
-        <div className='img-container-2'>
-          <img src="assets/images/CaseStudy1/aj-hifi2.png" alt="hifi-2" className='hifi'/>
+        <div className='full-spread'>
+          <img src="assets/images/CaseStudy1/4.png" />
         </div>
       </section>
 

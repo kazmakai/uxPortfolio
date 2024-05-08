@@ -10,7 +10,7 @@ const About = () => {
                 </div>
                 <div className='about-text'>
                     <p>
-                    I’m a curious designer who has explored diverse roles, from my major in architecture to project management and coding, and now back full-circle to design. This journey has made me more empathetic towards other roles and adaptable to different situations, especially when delivering projects for clients. I’m keen to continually refine my skills and make meaningful contributions within the right company.
+                    I'm a UX/UI Designer and Front-end Developer with an architecture background who has worked in Melbourne and Tokyo. I specialize in crafting user-centered products that satisfy briefs and project constraints. My diverse experience and proficiency in various design software make me adaptable to different project needs and empathetic towards stakeholders.
                     </p>
                     <br />
                     <p>
